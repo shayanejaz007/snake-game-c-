@@ -1,0 +1,4 @@
+﻿  snake game.cpp
+M:\projects c++\snake game\snake game\snake game.cpp(199,7): warning C4101: 'a': unreferenced local variable
+M:\projects c++\snake game\snake game\snake game.cpp(202,9): warning C4101: 'f': unreferenced local variable
+  snake game.vcxproj -> M:\projects c++\snake game\Debug\snake game.exe
